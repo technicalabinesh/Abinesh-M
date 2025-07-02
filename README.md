@@ -6,19 +6,19 @@ Hello World . This Is My Profile.
 <h3 align="center">📊 Data Analyst | A.I.D.S. @ SSMIET'27 | Python | Power BI | Looker | MySQL | Excel | ML</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+SSMIET+'27+%7C+Python+%7C+SQL;Power+BI+%7C+Looker+Studio+%7C+Machine+Learning;Coordinator+%7C+Project+Expo+Prize+Winner+%7C+21K+Followers" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+SSMIET+'27+%7C+AIDS+Branch;Python+%7C+SQL+%7C+Machine+Learning;Power+BI+%7C+Google+Looker+Studio+%7C+Excel;Project+Expo+Prize+Winner+%7C+Event+Coordinator;21K+Followers+on+Instagram+%7C+ML+%7C+EDA+%7C+NLP" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 B.E. in **Artificial Intelligence & Data Science (AIDS)** @ **SSMIET (Class of 2027)**
-- 💼 Focused and results-driven **Data Analyst** with hands-on project experience
-- 📊 Specialized in **Data Visualization** using **Power BI** & **Google Looker Studio**
-- 🧠 Enthusiast in **Machine Learning**, **EDA**, and **predictive analytics**
-- 👨‍💼 Played an **active coordinator role** in our **National Symposium**
-- 🏅 **Winner in College Project Expo** for innovative data-based solutions
+- 🎓 Pursuing B.E. in **Artificial Intelligence & Data Science (AIDS)** @ **SSMIET (Class of 2027)**
+- 💼 Focused and results-driven **Data Analyst** with practical project experience
+- 📊 Proficient in **Power BI** and **Google Looker Studio** for dynamic dashboards
+- 🧠 Enthusiastic about **ML, EDA, SQL, and real-world business analytics**
+- 🧑‍💼 Played an **Event Coordinator** role in my **College National Symposium**
+- 🏅 **Won Prize in Project Expo** for an innovative analytics-based solution
 
 ---
 
@@ -26,11 +26,11 @@ Hello World . This Is My Profile.
 
 | 📂 Project | 🔍 Description |
 |-----------|----------------|
-| 🎬 [**Movie Recommendation System**](https://github.com/technicalabinesh/Movie-Recommendation-System) | Developed using collaborative filtering and Python |
-| 📺 [**Netflix Data Analysis**](https://github.com/technicalabinesh/Data-Driven-Exploration-of-Netflix-Content) | Explored Netflix dataset using pandas, matplotlib |
-| 🎓 [**Udemy Course Analysis**](https://github.com/technicalabinesh/Udemy-Data-Analysis) | Discovered trends in course categories, pricing, and ratings |
-| 🍽️ [**Zomato Data Analytics**](https://github.com/technicalabinesh/Zomato-Data-Analysis-Using-Python) | Analyzed restaurant behavior and customer preferences |
-| 📧 [**Email Spam Classifier**](https://github.com/technicalabinesh/Email-Spam-Classifier-Using-ML) | Implemented spam detection using Scikit-learn and NLP |
+| 🎬 [**Movie Recommendation System**](https://github.com/technicalabinesh/Movie-Recommendation-System) | Built using collaborative filtering and content-based ML algorithms |
+| 📺 [**Netflix Content Analysis**](https://github.com/technicalabinesh/Data-Driven-Exploration-of-Netflix-Content) | EDA on Netflix dataset using Pandas, Matplotlib, Seaborn |
+| 🎓 [**Udemy Course Analysis**](https://github.com/technicalabinesh/Udemy-Data-Analysis) | Insights on course trends, pricing, and ratings using Python |
+| 🍽️ [**Zomato Data Analytics**](https://github.com/technicalabinesh/Zomato-Data-Analysis-Using-Python) | Data cleaning & visualization of food delivery trends |
+| 📧 [**Email Spam Classifier (ML)**](https://github.com/technicalabinesh/Email-Spam-Classifier-Using-ML) | Built using Scikit-learn, NLP, and text preprocessing pipelines |
 
 ---
 
@@ -39,7 +39,7 @@ Hello World . This Is My Profile.
 - **Languages:** Python, SQL, DAX  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-learn  
 - **Tools:** Power BI, Google Looker Studio, Excel, Jupyter Notebook, Git, Canva  
-- **Specialties:** Data Cleaning, Visualization, Dashboard Design, Coordination, Presentation
+- **Specialties:** Data Cleaning, Visualization, Dashboard Design, Coordination, Predictive Modeling
 
 ---
 
@@ -67,11 +67,11 @@ Hello World . This Is My Profile.
 
 ### 🏆 Achievements
 
-- 🏅 **Won Prize** in **Project Expo** for Data-Driven Innovation  
-- 🧑‍💼 **Coordinator** in College **National Level Symposium (Technical Event)**
-- 💡 **Selected for Google Facilitator Program**
-- 📊 Created impactful dashboards with **Power BI** and **Looker Studio**
-- 📱 Gained over **21K followers** through content-driven strategy on Instagram
+- 🏅 **Project Expo Prize Winner** at SSMIET  
+- 👨‍💼 **National Symposium Coordinator** (Organizing, Technical Support)  
+- 💡 **Google Facilitator Program** participant  
+- 📊 Created impactful dashboards with **Power BI** & **Looker Studio**  
+- 📱 Built a 21K+ follower community on Instagram with engaging edits and insights
 
 ---
 
@@ -84,5 +84,5 @@ Hello World . This Is My Profile.
 
 ---
 
-> 🎯 _“Without data, you're just another person with an opinion.” — W. Edwards Deming_
+> 💬 “Without data, you're just another person with an opinion.” — *W. Edwards Deming*
 
