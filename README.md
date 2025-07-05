@@ -36,7 +36,7 @@ Hello World . This Is My Profile.
 
 ### 🧠 Skills & Tools
 
-- **Languages:** Python, SQL, DAX  
+- **Languages:** Python, SQL 
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-learn  
 - **Tools:** Power BI, Google Looker Studio, Excel, Jupyter Notebook, Git, Canva  
 - **Specialties:** Data Cleaning, Visualization, Dashboard Design, Coordination, Predictive Modeling
@@ -84,5 +84,5 @@ Hello World . This Is My Profile.
 
 ---
 
-> 💬 “Without data, you're just another person with an opinion.” — *W. Edwards Deming **
+> 💬 “Without data, you're just another person with an opinion.” — *W. Edwards Deming *
 
