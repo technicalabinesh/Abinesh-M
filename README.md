@@ -84,5 +84,7 @@ Hello World . This Is My Profile.
 
 ---
 
-> 💬 “Without data, you're just another person with an opinion.” — *W. Edwards Deming *
+> 💡 **"Code is like humor. When you have to explain it, it’s bad."**  
+> — *Cory House*
+
 
