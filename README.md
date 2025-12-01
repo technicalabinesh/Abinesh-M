@@ -13,15 +13,15 @@ Hello World . This Is My Profile.
 
 ### 👨‍💻 About Me
 
-- 🎓 Pursuing B.E. in **Artificial Intelligence & Data Science (AIDS)** @ **SSMIET (Class of 2027)**
-- 💼 Focused and results-driven **Data Analyst** with practical project experience
-- 📊 Proficient in **Power BI** and **Google Looker Studio** for dynamic dashboards
-- 🧠 Passionate about **ML, EDA, SQL, and real-world business analytics**
-- 🧑‍💼 Served as **Event Coordinator** in our **College National Symposium**
-- 🏅 **Won Prize in Project Expo** for analytics-driven innovation
-- 🤖 **Top Performer in AI Trading Bot Project**
-- 💊 **Developer of a Medical Dosage Calculator (Healthcare ML Tool)**
-- 🌍 **Open Source Contributor** – GSoC Supporter & Hacktoberfest Participant
+- 🎓 B.E. **Artificial Intelligence & Data Science (AIDS)** @ **SSMIET (2027)**
+- 💼 Passionate **Data Analyst** with strong analytics + ML background  
+- 📊 Experienced with **Power BI** & **Looker Studio** dashboards  
+- 🧠 Skilled in **ML, EDA, SQL, Visualization & Business Insights**  
+- 🧑‍💼 Served as **Event Coordinator – National Symposium**  
+- 🏅 **Project Expo Prize Winner**  
+- 🤖 **Top Performer – AI Trading Bot Project**  
+- 💊 **Developer – Medical Dosage Calculator (Healthcare ML Tool)**  
+- 🌍 **Open Source Contributor** – GSoC Supporter + Hacktoberfest Participant  
 
 ---
 
@@ -29,13 +29,13 @@ Hello World . This Is My Profile.
 
 | 📂 Project | 🔍 Description |
 |-----------|----------------|
-| 
-| 🎬 [**Movie Recommendation System**](https://github.com/technicalabinesh/Movie-Recommendation-System) | Collaborative + content-based ML system |
-| 📺 [**Netflix Content Analysis**](https://github.com/technicalabinesh/Data-Driven-Exploration-of-Netflix-Content) | Netflix dataset EDA with Matplotlib & Seaborn |
-| 🎓 [**Udemy Course Analysis**](https://github.com/technicalabinesh/Udemy-Data-Analysis) | Insights on ratings, categories & pricing |
-| 🍽️ [**Zomato Data Analytics**](https://github.com/technicalabinesh/Zomato-Data-Analysis-Using-Python) | Data cleaning + visualization |
-| 📧 [**Email Spam Classifier (ML)**](https://github.com/technicalabinesh/Email-Spam-Classifier-Using-ML) | NLP-based spam detection |
-| 
+| 🤖 **AI Trading Bot (Top Performer)** | Automated trading bot with ML-driven decision engine |
+| 🎬 **Movie Recommendation System** | Collaborative + content-based recommendation ML model |
+| 📺 **Netflix Content Analysis** | EDA on Netflix dataset using Pandas, Matplotlib, Seaborn |
+| 🎓 **Udemy Course Analysis** | Insights into pricing, ratings, categories & learner trends |
+| 🍽️ **Zomato Data Analytics** | Data cleaning and visualization using Python |
+| 📧 **Email Spam Classifier (ML)** | NLP + ML pipeline for spam detection |
+| 💊 **Medical Dosage Calculator** | Healthcare dosage calculation tool with logic-based system |
 
 ---
 
@@ -44,7 +44,7 @@ Hello World . This Is My Profile.
 - **Languages:** Python, SQL  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-learn  
 - **Tools:** Power BI, Looker Studio, Excel, Git, Jupyter Notebook, Canva  
-- **Expertise:** EDA, Dashboarding, ML Models, Data Cleaning, Automation  
+- **Expertise:** EDA, Visualization, ML Models, Dashboarding, Automation  
 
 ---
 
@@ -72,15 +72,15 @@ Hello World . This Is My Profile.
 
 ### 🏆 Achievements
 
-- 🏅 **Project Expo Prize Winner** at SSMIET  
-- 🤖 **Top Performer – AI Trading Bot Project**  
-- 💊 **Built a Medical Dosage Calculator Tool**  
+- 🏅 **Project Expo Winner**  
+- 🤖 **Top Performer – AI Trading Bot**  
+- 💊 **Built a Medical Dosage Calculator**  
 - 👨‍💼 **National Symposium Coordinator**  
-- 💡 **Google Facilitator Program Participant**  
+- 💡 **Google Facilitator Program Member**  
 - 🎉 **Hacktoberfest Contributor**  
-- 🌍 **GSoC Contributor Supporter (Open Source)**  
-- 📊 Created dashboards using **Power BI** & **Looker Studio**  
-- 📱 Built a **21K+ Instagram community**  
+- 🌍 **GSoC Contributor Supporter**  
+- 📊 Power BI & Looker dashboard creator  
+- 📱 Built a **21K+ Instagram Community**  
 
 ---
 
