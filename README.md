@@ -16,9 +16,12 @@ Hello World . This Is My Profile.
 - 🎓 Pursuing B.E. in **Artificial Intelligence & Data Science (AIDS)** @ **SSMIET (Class of 2027)**
 - 💼 Focused and results-driven **Data Analyst** with practical project experience
 - 📊 Proficient in **Power BI** and **Google Looker Studio** for dynamic dashboards
-- 🧠 Enthusiastic about **ML, EDA, SQL, and real-world business analytics**
-- 🧑‍💼 Played an **Event Coordinator** role in my **College National Symposium**
-- 🏅 **Won Prize in Project Expo** for an innovative analytics-based solution
+- 🧠 Passionate about **ML, EDA, SQL, and real-world business analytics**
+- 🧑‍💼 Served as **Event Coordinator** in our **College National Symposium**
+- 🏅 **Won Prize in Project Expo** for analytics-driven innovation
+- 🤖 **Top Performer in AI Trading Bot Project**
+- 💊 **Developer of a Medical Dosage Calculator (Healthcare ML Tool)**
+- 🌍 **Open Source Contributor** – GSoC Supporter & Hacktoberfest Participant
 
 ---
 
@@ -26,20 +29,22 @@ Hello World . This Is My Profile.
 
 | 📂 Project | 🔍 Description |
 |-----------|----------------|
-| 🎬 [**Movie Recommendation System**](https://github.com/technicalabinesh/Movie-Recommendation-System) | Built using collaborative filtering and content-based ML algorithms |
-| 📺 [**Netflix Content Analysis**](https://github.com/technicalabinesh/Data-Driven-Exploration-of-Netflix-Content) | EDA on Netflix dataset using Pandas, Matplotlib, Seaborn |
-| 🎓 [**Udemy Course Analysis**](https://github.com/technicalabinesh/Udemy-Data-Analysis) | Insights on course trends, pricing, and ratings using Python |
-| 🍽️ [**Zomato Data Analytics**](https://github.com/technicalabinesh/Zomato-Data-Analysis-Using-Python) | Data cleaning & visualization of food delivery trends |
-| 📧 [**Email Spam Classifier (ML)**](https://github.com/technicalabinesh/Email-Spam-Classifier-Using-ML) | Built using Scikit-learn, NLP, and text preprocessing pipelines |
+| 
+| 🎬 [**Movie Recommendation System**](https://github.com/technicalabinesh/Movie-Recommendation-System) | Collaborative + content-based ML system |
+| 📺 [**Netflix Content Analysis**](https://github.com/technicalabinesh/Data-Driven-Exploration-of-Netflix-Content) | Netflix dataset EDA with Matplotlib & Seaborn |
+| 🎓 [**Udemy Course Analysis**](https://github.com/technicalabinesh/Udemy-Data-Analysis) | Insights on ratings, categories & pricing |
+| 🍽️ [**Zomato Data Analytics**](https://github.com/technicalabinesh/Zomato-Data-Analysis-Using-Python) | Data cleaning + visualization |
+| 📧 [**Email Spam Classifier (ML)**](https://github.com/technicalabinesh/Email-Spam-Classifier-Using-ML) | NLP-based spam detection |
+| 
 
 ---
 
 ### 🧠 Skills & Tools
 
-- **Languages:** Python, SQL 
+- **Languages:** Python, SQL  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-learn  
-- **Tools:** Power BI, Google Looker Studio, Excel, Jupyter Notebook, Git, Canva  
-- **Specialties:** Data Cleaning, Visualization, Dashboard Design, Coordination, Predictive Modeling
+- **Tools:** Power BI, Looker Studio, Excel, Git, Jupyter Notebook, Canva  
+- **Expertise:** EDA, Dashboarding, ML Models, Data Cleaning, Automation  
 
 ---
 
@@ -47,19 +52,19 @@ Hello World . This Is My Profile.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/abinesh555/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Abinesh-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Abinesh-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/technicalabinesh" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-technicalabinesh-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-technicalabinesh-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.instagram.com/buddy_edit_001/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-21K+-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-21K+-E4405F?style=for-the-badge&logo=instagram" />
   </a>
   <a href="https://www.hackerrank.com/profile/m_abinesh555" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Abinesh-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerRank-Abinesh-2EC866?style=for-the-badge&logo=hackerrank" />
   </a>
   <a href="https://leetcode.com/u/uSnCHCLO8Z/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-uSnCHCLO8Z-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-uSnCHCLO8Z-F89F1B?style=for-the-badge&logo=leetcode" />
   </a>
 </p>
 
@@ -68,10 +73,14 @@ Hello World . This Is My Profile.
 ### 🏆 Achievements
 
 - 🏅 **Project Expo Prize Winner** at SSMIET  
-- 👨‍💼 **National Symposium Coordinator** (Organizing, Technical Support)  
-- 💡 **Google Facilitator Program** participant  
-- 📊 Created impactful dashboards with **Power BI** & **Looker Studio**  
-- 📱 Built a 21K+ follower community on Instagram with engaging edits and insights
+- 🤖 **Top Performer – AI Trading Bot Project**  
+- 💊 **Built a Medical Dosage Calculator Tool**  
+- 👨‍💼 **National Symposium Coordinator**  
+- 💡 **Google Facilitator Program Participant**  
+- 🎉 **Hacktoberfest Contributor**  
+- 🌍 **GSoC Contributor Supporter (Open Source)**  
+- 📊 Created dashboards using **Power BI** & **Looker Studio**  
+- 📱 Built a **21K+ Instagram community**  
 
 ---
 
@@ -84,7 +93,4 @@ Hello World . This Is My Profile.
 
 ---
 
-> 💡 **"Code is like humor. When you have to explain it, it’s bad."**  
-> — *Cory House*
-
-
+> 💡 **"Code is like humor. When you have to explain it, it’s bad."** — *Cory House*
