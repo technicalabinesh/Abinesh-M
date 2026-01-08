@@ -45,7 +45,7 @@ class DataAnalyst:
 - 🔭 **Currently Working On:** Advanced Predictive Modeling & NLP Projects
 - 🌱 **Learning:** Deep Learning, Computer Vision, Cloud Technologies
 - ⚡ **Leadership:** National Symposium Coordinator | Google Facilitator
-- 📈 **Community Impact:** Built and grew tech community to **21K+ on Instagram**
+- 📈 **Community Impact:** Built and grew tech community to **43K+ on Instagram**
 - 💬 **Ask Me About:** Python Automation, SQL Optimization, Interactive Dashboards
 - 🎯 **2024 Goal:** Contribute to 50+ Open Source Projects
 
