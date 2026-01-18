@@ -21,7 +21,7 @@ class DataAnalyst:
     def __init__(self):
         self.name = "Abinesh M"
         self.role = "Data Analyst & AI Engineer"
-        self.education = "B.E. AI & Data Science @ SSMIET'27"
+        self.education = "B.E. AI & Data Science  SSMIET'27"
         self.language_spoken = ["en_IN", "ta_IN"]
     
     def current_focus(self):
