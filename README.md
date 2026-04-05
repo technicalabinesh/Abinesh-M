@@ -1,12 +1,18 @@
 # 👨‍💻 Abinesh M | Data Analyst & AI Enthusiast
 
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&width=800&lines=Data+Analyst+%40+SSMIET'27+🎓;Bridging+Data+and+Decisions+📊;Python+%7C+SQL+%7C+Power+BI+%7C+ML+🤖;Building+the+Future+with+AI+%26+Data+✨;21K%2B+Community+Builder+🚀)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,20,24&height=200&section=header&text=Abinesh%20M&fontSize=70&fontAlignY=38&desc=Data%20Analyst%20%7C%20AI%20Engineer%20%7C%20Community%20Builder&descAlignY=58&descAlign=50&animation=fadeIn&fontColor=FFFFFF" width="100%">
+
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&width=800&lines=Data+Analyst+%40+SSMIET'27+🎓;Bridging+Data+and+Decisions+📊;Python+%7C+SQL+%7C+Power+BI+%7C+ML+🤖;Building+the+Future+with+AI+%26+Data+✨;43K%2B+Community+Builder+🚀;Open+Source+Contributor+💡)
   
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
   
+  <br>
+  
   [![Profile Views](https://komarev.com/ghpvc/?username=technicalabinesh&label=Profile%20Views&color=2E86C1&style=for-the-badge)](https://github.com/technicalabinesh)
+  [![GitHub followers](https://img.shields.io/github/followers/technicalabinesh?label=Followers&style=for-the-badge&color=2E86C1&logo=github)](https://github.com/technicalabinesh?tab=followers)
+  [![GitHub stars](https://img.shields.io/github/stars/technicalabinesh?label=Stars&style=for-the-badge&color=yellow&logo=github)](https://github.com/technicalabinesh)
   
 </div>
 
@@ -34,7 +40,7 @@ class DataAnalyst:
     
     def achievements(self):
         return {
-            "community_reach": "21K+ followers",
+            "community_reach": "43K+ followers",
             "event_leadership": "National Symposium Coordinator",
             "awards": ["Top Performer", "Project Expo Winner"]
         }
@@ -47,7 +53,40 @@ class DataAnalyst:
 - ⚡ **Leadership:** National Symposium Coordinator | Google Facilitator
 - 📈 **Community Impact:** Built and grew tech community to **43K+ on Instagram**
 - 💬 **Ask Me About:** Python Automation, SQL Optimization, Interactive Dashboards
-- 🎯 **2024 Goal:** Contribute to 50+ Open Source Projects
+- 🎯 **2025 Goal:** Contribute to 50+ Open Source Projects & Land AI Internship
+
+---
+
+## ⚡ Fun Facts About Me
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
+<br><b>Data Whisperer</b>
+<br><sub>Turning raw data into gold 📊</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80">
+<br><b>ML Explorer</b>
+<br><sub>Teaching machines to think 🤖</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80">
+<br><b>Community Leader</b>
+<br><sub>43K+ strong network 🚀</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80">
+<br><b>Open Source Fan</b>
+<br><sub>Code. Collaborate. Create. 💻</sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -85,6 +124,47 @@ class DataAnalyst:
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 </div>
+
+---
+
+## 🌱 Currently Learning
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="500">
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🧠 Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+`CNNs • RNNs • Transformers`
+
+</td>
+<td align="center" width="33%">
+
+### 👁️ Computer Vision
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+
+`Object Detection • Image Classification`
+
+</td>
+<td align="center" width="33%">
+
+### ☁️ Cloud & MLOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+`Model Deployment • CI/CD Pipelines`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -225,7 +305,23 @@ class DataAnalyst:
 
 <div align="center">
   
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=technicalabinesh&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=technicalabinesh&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
+
+</div>
+
+---
+
+## 🗺️ Contribution Map
+
+<div align="center">
+
+[![An image of @technicalabinesh's Holopin badges](https://holopin.me/technicalabinesh)](https://holopin.io/@technicalabinesh)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/technicalabinesh/technicalabinesh/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/technicalabinesh/technicalabinesh/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/technicalabinesh/technicalabinesh/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -268,8 +364,6 @@ class DataAnalyst:
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,6&height=100&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=30&fontAlignY=70&animation=twinkling" width="100%">
-
 </div>
 
 ---
@@ -283,3 +377,5 @@ class DataAnalyst:
 **⭐ From [technicalabinesh](https://github.com/technicalabinesh) with 💙**
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,20,24&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=30&fontAlignY=70&animation=twinkling&fontColor=FFFFFF" width="100%">
